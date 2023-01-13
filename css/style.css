@@ -1,0 +1,21 @@
+/* Columna Izquierda*/
+.col-3{
+    height: 750px;
+    background-color: aqua;
+}
+/* Columna Derecha*/
+.col-4{
+    height: 750px;
+    background-color: aqua;
+}
+/* Columna Central*/
+.col-5{
+    height: 100%;
+}
+/* Imagen de Perfil */
+.fotoPerfil img{
+    border-radius: 50%;
+    width: 35%;
+    height: 35%;
+    overflow: hidden;
+}
